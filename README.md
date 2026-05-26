@@ -1,16 +1,21 @@
-## Hi there 👋
+## Kristina Shausmanov
 
-<!--
-**kshausmanov/kshausmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sr. data analyst moving into AI validation engineering.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with clinical data and AI systems in regulated healthcare. Right now I'm at First Databank, where I help make sure AI and data systems are safe and accurate for medical use.
+
+### What I'm building
+
+- Python eval tools for AI outputs
+- Test cases for clinical AI systems
+- Studying for Azure AI Engineer Associate (AI-102)
+
+### Skills
+
+Python · T-SQL · Azure · AWS · Power BI · Custom GPT · Azure OpenAI · clinical data · AI validation
+
+### Find me
+
+- Email: pickupletter@gmail.com
